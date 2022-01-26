@@ -18,7 +18,7 @@
 <h1><b>Minecraft RPG</b></h1>
 
 <h2>Початок:</h2>
-<div class="img_arc" style="float:right;">
+<div class="img_arc" style="float:right;width:650px;">
 <img src="myFirstRPG.png" style="height:178px;", class="img", title="Класний шрифт? Так, так, але назву я нажаль забув. Головне що то з якогось комп'ютера початку 80-х. Типу ZX-Spectrum">
 <p class="center img_arc_txt">Скріншот з гри My First RPG</p>
 </div>
