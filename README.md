@@ -1,2 +1,2 @@
 # minerpg.github.io
- Квек. Сайт з Minevraft RPG
+ Квек. Це ж мій сайт
